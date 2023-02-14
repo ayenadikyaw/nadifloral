@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    background-image: url("Image/background.jpg");
+    font-family: 'Signika Negative', sans-serif;
+    color: rgb(209, 180, 223);
+    
+}
+
+fieldset{
+    background-color: rgba(63, 5, 90, 0.8);
+    
+}
+h2{
+    color:rgb(63, 5, 90);
+}
+
+input{
+    border-radius: 20px;
+}
+
+textarea{
+    border-radius: 20px;
+}
+
+input[type="submit"]{
+    background-color:rgb(218, 28, 85);
+    color: rgb(209, 180, 223);
+    border: none;
+    padding: 5px;
+}
+
+input[type="button"]{
+    background-color:rgb(218, 28, 85);
+    color: rgb(209, 180, 223);
+    border: none;
+    padding: 5px;
+}
+
+section#footer
+{
+    background-color: rgba(63, 5, 90, 0.8);
+    width: 100%;
+    padding: 10px;
+    color:rgb(209, 180, 223);
+    font-family:'Nunito',sans-serif;
+    text-align: center;
+    bottom: 0;
+    position: absolute;
+    
+}
